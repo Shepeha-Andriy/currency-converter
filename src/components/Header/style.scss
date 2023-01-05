@@ -1,0 +1,12 @@
+.Header{
+  font-size: 25px;
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  color: rgb(181, 186, 190);
+
+  &__price {
+    display: flex;
+    justify-content: center;
+  }
+}
